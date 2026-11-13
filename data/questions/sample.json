@@ -1,0 +1,40 @@
+[
+  {
+    "id": "dsat-rw-craft-001",
+    "section": "READING_WRITING",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "MEDIUM",
+    "passage": "In the early twentieth century, the rediscovery of Gregor Mendel’s work provided a mechanism for natural selection. While Charles Darwin had formulated the theory of evolution by natural selection, he was unable to articulate the precise biological unit of inheritance, a shortcoming that Mendel’s discrete factors—now termed genes—helped to ______.",
+    "questionText": "Which choice completes the text with the most logical and precise word or phrase?",
+    "questionType": "MULTIPLE_CHOICE",
+    "options": [
+      { "id": "A", "text": "corroborate" },
+      { "id": "B", "text": "remedy" },
+      { "id": "C", "text": "exacerbate" },
+      { "id": "D", "text": "preclude" }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The text explains that Darwin had a 'shortcoming' because he could not explain inheritance, but Mendel's discoveries helped address or fix this problem. 'Remedy' means to set right or cure a deficiency, which precisely fits the context. 'Corroborate' means to confirm, 'exacerbate' means to worsen, and 'preclude' means to prevent.",
+    "tags": ["words-in-context", "reading", "science-history"]
+  },
+  {
+    "id": "dsat-math-alg-001",
+    "section": "MATH",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "EASY",
+    "passage": null,
+    "questionText": "If $3x + 7 = 19$, what is the value of $6x + 5$?",
+    "questionType": "MULTIPLE_CHOICE",
+    "options": [
+      { "id": "A", "text": "24" },
+      { "id": "B", "text": "29" },
+      { "id": "C", "text": "31" },
+      { "id": "D", "text": "36" }
+    ],
+    "correctAnswer": "B",
+    "explanation": "First, subtract $7$ from both sides of $3x + 7 = 19$ to get $3x = 12$. Notice that $6x = 2 \\times (3x) = 2 \\times 12 = 24$. Then evaluate $6x + 5 = 24 + 5 = 29$.",
+    "tags": ["linear-equations", "algebra", "evaluating-expressions"]
+  }
+]
